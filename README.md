@@ -76,7 +76,7 @@ QR codes are used in various fields, including advertising, marketing, logistics
 
 ## Author
 
-- Frontend Mentor - [@AJasonProt](https://www.frontendmentor.io/profile/JasonProt)
+- Frontend Mentor - [@JasonProt](https://www.frontendmentor.io/profile/JasonProt)
 
 ## Acknowledgments
 
